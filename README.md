@@ -67,3 +67,8 @@ The activity network diagram illustrates predecessor relationships, task concurr
 ![Network Diagram](images/3-network-diagram.pdf)
 
 ---
+
+## 💻 Methodologies & Standards
+* **Project Management Standards:** Aligned with PMBOK framework principles (WBS, Critical Path Method, Resource Planning).
+
+* **Scheduling Tool:** ProjectLibre.
